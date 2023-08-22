@@ -1,0 +1,13 @@
+D:\Simplilearn\SQL\Assessments\Assign-8\EFAssignment8\EFAssignment8\obj\Debug\EFAssignment8.csproj.AssemblyReference.cache
+D:\Simplilearn\SQL\Assessments\Assign-8\EFAssignment8\EFAssignment8\obj\Debug\EFAssignment8.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\SQL\Assessments\Assign-8\EFAssignment8\EFAssignment8\obj\Debug\EFAssignment8.csproj.CoreCompileInputs.cache
+D:\Simplilearn\SQL\Assessments\Assign-8\EFAssignment8\EFAssignment8\bin\Debug\EFAssignment8.exe.config
+D:\Simplilearn\SQL\Assessments\Assign-8\EFAssignment8\EFAssignment8\bin\Debug\EFAssignment8.exe
+D:\Simplilearn\SQL\Assessments\Assign-8\EFAssignment8\EFAssignment8\bin\Debug\EFAssignment8.pdb
+D:\Simplilearn\SQL\Assessments\Assign-8\EFAssignment8\EFAssignment8\bin\Debug\EntityFramework.dll
+D:\Simplilearn\SQL\Assessments\Assign-8\EFAssignment8\EFAssignment8\bin\Debug\EntityFramework.SqlServer.dll
+D:\Simplilearn\SQL\Assessments\Assign-8\EFAssignment8\EFAssignment8\bin\Debug\EntityFramework.xml
+D:\Simplilearn\SQL\Assessments\Assign-8\EFAssignment8\EFAssignment8\bin\Debug\EntityFramework.SqlServer.xml
+D:\Simplilearn\SQL\Assessments\Assign-8\EFAssignment8\EFAssignment8\obj\Debug\EFAssignment8.csproj.CopyComplete
+D:\Simplilearn\SQL\Assessments\Assign-8\EFAssignment8\EFAssignment8\obj\Debug\EFAssignment8.exe
+D:\Simplilearn\SQL\Assessments\Assign-8\EFAssignment8\EFAssignment8\obj\Debug\EFAssignment8.pdb
